@@ -1,5 +1,6 @@
 - 👋 Hi there, I’m @VishalPraneeth
 - 👀 I’m interested in DevOps
-- 📫 How to reach me vishalpraneeth7771@gmail.com
+- 📫 Reach me at vishalpraneeth7771@gmail.com
+- 👨‍🏫 BE student at PES University,Bangalore 
 
 
