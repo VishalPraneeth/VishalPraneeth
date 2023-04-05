@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://vishal7771.hashnode.dev/,https://hashnode.com/@Vishal7771"
+          feed_list: "https://vishal7771.hashnode.dev/"
