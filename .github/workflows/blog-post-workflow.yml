@@ -1,19 +1,24 @@
-# name: Latest blog post workflow
-# on:
-#   schedule: # Run workflow automatically
-#     - cron: '0 * * * *' # Runs every hour, on the hour
-#   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
-# permissions:
-#   contents: write # To write the generated contents to the readme
+name: "📚 Blog Updater"
 
-# jobs:
-#   update-readme-with-blog:
-#     name: Update this repo's README with latest blog posts
-#     runs-on: ubuntu-latest
-#     steps:
-#       - name: Checkout
-#         uses: actions/checkout@v3
-#       - name: Pull in hshnode posts
-#         uses: gautamkrishnar/blog-post-workflow@v1
-#         with:
-#           feed_list: "https://vishal7771.hashnode.dev/"
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */24 * * *' # Runs Every 24 Hours
+
+jobs:
+  update_blogs:
+    name: "Update Blogs"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@1.1.1"
+        with:
+          USERNAME: 'Vishal' # Hashnode Username
+          COUNT: 3 # MAX Visisble
+          STYLE: "blog-left"
+          BLOG_URL: "https://vishal7771.hashnode.dev/"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
