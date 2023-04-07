@@ -16,7 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@1.1.1"
         with:
-          USERNAME: 'Vishal' # Hashnode Username
+          USERNAME: 'Vishal7771' # Hashnode Username
           COUNT: 3 # MAX Visisble
           STYLE: "blog-left"
           BLOG_URL: "https://vishal7771.hashnode.dev/"
