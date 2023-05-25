@@ -7,6 +7,14 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://vishal7771.hashnode.dev//unlocking-the-world-of-computer-networks-explore-understand-and-connect" title="Unlocking the World of Computer Networks: Explore, Understand, and Connect!🌐"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684943938137/43e8a174-7728-44c9-97f8-2f64313d761d.jpeg" alt="Unlocking the World of Computer Networks: Explore, Understand, and Connect!🌐" width="250px" align="left" /></a>
+<a href="https://vishal7771.hashnode.dev//unlocking-the-world-of-computer-networks-explore-understand-and-connect" title="Unlocking the World of Computer Networks: Explore, Understand, and Connect!🌐"><strong>Unlocking the World of Computer Networks: Explore, Understand, and Connect!🌐</strong></a>
+<br/> Where did it all begin?
+Tim Berners developed the www. World wide web is basically a project that stores the documents that are accessible across the world through the Internet.
+Let me show you the world's first website😶‍🌫️
+
+"Link to the world's fi... </p> <br/> <br/>
+<p align="left">
 <a href="https://vishal7771.hashnode.dev//deploying-web-app-using-nginx-web-server-and-reverse-proxy" title="Deploying Web App using Nginx web server and Reverse proxy🔀"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680546211349/32ec7757-5fa1-421e-9280-62abfd405c8d.webp" alt="Deploying Web App using Nginx web server and Reverse proxy🔀" width="250px" align="left" /></a>
 <a href="https://vishal7771.hashnode.dev//deploying-web-app-using-nginx-web-server-and-reverse-proxy" title="Deploying Web App using Nginx web server and Reverse proxy🔀"><strong>Deploying Web App using Nginx web server and Reverse proxy🔀</strong></a>
 <br/> Web servers and reverse proxies are powerful tools in the DevOps arsenal, providing a range of benefits for web application performance, security, and infrastructure management.
@@ -18,11 +26,6 @@ Nginx is a popular open-source web server software that a... </p> <br/> <br/>
 <br/> Introduction
 
 To begin with, it's important to understand that the Linux kernel is not a complete operating system on its own. Rather, it is a component of an operating system known as GNU/Linux Which is the combination of the GNU project's userland ... </p> <br/> <br/>
-<p align="left">
-<a href="https://vishal7771.hashnode.dev//deploying-a-wordpress-applicationfull-stack-on-aws-using-eks" title="Deploying a WordPress application(Full stack) on AWS using EKS."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677405645936/8acc1fb3-f087-4987-b479-3bc5f12b3b14.png" alt="Deploying a WordPress application(Full stack) on AWS using EKS." width="250px" align="left" /></a>
-<a href="https://vishal7771.hashnode.dev//deploying-a-wordpress-applicationfull-stack-on-aws-using-eks" title="Deploying a WordPress application(Full stack) on AWS using EKS."><strong>Deploying a WordPress application(Full stack) on AWS using EKS.</strong></a>
-<br/> WordPress is a common Content Management System for building websites and blogs. Scaling WordPress can be difficult, especially in the cloud due to the shared file system requirement for uploads, plugins, and themes.
-This blog follows the WordPress d... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
