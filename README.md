@@ -7,6 +7,19 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://vishal7771.hashnode.dev//webassembly-wasm-a-new-development-paradigm-for-the-web" title="WebAssembly (WASM): A new development paradigm for the web."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685258483654/e794bc7c-a482-4d9b-bbe1-f991cc0f2892.png" alt="WebAssembly (WASM): A new development paradigm for the web." width="250px" align="left" /></a>
+<a href="https://vishal7771.hashnode.dev//webassembly-wasm-a-new-development-paradigm-for-the-web" title="WebAssembly (WASM): A new development paradigm for the web."><strong>WebAssembly (WASM): A new development paradigm for the web.</strong></a>
+<br/> What is WebAssembly?
+It is a low-level binary web format compiled from other languages to offer maximized performance and augment JS.
+Advantages and use cases of WebAssembly
+
+
+Reliable and better performance
+
+Enhanced portability
+
+Greater flexibility... </p> <br/> <br/>
+<p align="left">
 <a href="https://vishal7771.hashnode.dev//unlocking-the-world-of-computer-networks-explore-understand-and-connect" title="Unlocking the World of Computer Networks: Explore, Understand, and Connect!🌐"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684943938137/43e8a174-7728-44c9-97f8-2f64313d761d.jpeg" alt="Unlocking the World of Computer Networks: Explore, Understand, and Connect!🌐" width="250px" align="left" /></a>
 <a href="https://vishal7771.hashnode.dev//unlocking-the-world-of-computer-networks-explore-understand-and-connect" title="Unlocking the World of Computer Networks: Explore, Understand, and Connect!🌐"><strong>Unlocking the World of Computer Networks: Explore, Understand, and Connect!🌐</strong></a>
 <br/> Where did it all begin?
@@ -20,12 +33,6 @@ Let me show you the world's first website😶‍🌫️
 <br/> Web servers and reverse proxies are powerful tools in the DevOps arsenal, providing a range of benefits for web application performance, security, and infrastructure management.
 What is Nginx?
 Nginx is a popular open-source web server software that a... </p> <br/> <br/>
-<p align="left">
-<a href="https://vishal7771.hashnode.dev//understanding-linux-kernel-concepts-for-devops" title="Understanding Linux Kernel concepts for DevOps."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676821097908/c2922a9f-fdbc-4188-92b7-19ea205d09d8.jpeg" alt="Understanding Linux Kernel concepts for DevOps." width="250px" align="left" /></a>
-<a href="https://vishal7771.hashnode.dev//understanding-linux-kernel-concepts-for-devops" title="Understanding Linux Kernel concepts for DevOps."><strong>Understanding Linux Kernel concepts for DevOps.</strong></a>
-<br/> Introduction
-
-To begin with, it's important to understand that the Linux kernel is not a complete operating system on its own. Rather, it is a component of an operating system known as GNU/Linux Which is the combination of the GNU project's userland ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
