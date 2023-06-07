@@ -7,6 +7,11 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://vishal7771.hashnode.dev//my-incredible-journey-at-kubernetes-community-days-bangalore-a-gateway-to-the-devops-ecosystem" title="My Incredible Journey at Kubernetes Community Days Bangalore: A Gateway to the DevOps Ecosystem"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686054374567/b4796059-ec96-4b9b-8b8a-714ffc80ff1f.jpeg" alt="My Incredible Journey at Kubernetes Community Days Bangalore: A Gateway to the DevOps Ecosystem" width="250px" align="left" /></a>
+<a href="https://vishal7771.hashnode.dev//my-incredible-journey-at-kubernetes-community-days-bangalore-a-gateway-to-the-devops-ecosystem" title="My Incredible Journey at Kubernetes Community Days Bangalore: A Gateway to the DevOps Ecosystem"><strong>My Incredible Journey at Kubernetes Community Days Bangalore: A Gateway to the DevOps Ecosystem</strong></a>
+<br/> Introduction:
+Last week on Friday and Saturday, I had the privilege of attending Kubernetes Community Days with a free student pass I received as part of a student scholarship. The event turned out to be an overwhelming experience, immersing me in th... </p> <br/> <br/>
+<p align="left">
 <a href="https://vishal7771.hashnode.dev//webassembly-wasm-a-new-development-paradigm-for-the-web" title="WebAssembly (WASM): A new development paradigm for the web."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685258483654/e794bc7c-a482-4d9b-bbe1-f991cc0f2892.png" alt="WebAssembly (WASM): A new development paradigm for the web." width="250px" align="left" /></a>
 <a href="https://vishal7771.hashnode.dev//webassembly-wasm-a-new-development-paradigm-for-the-web" title="WebAssembly (WASM): A new development paradigm for the web."><strong>WebAssembly (WASM): A new development paradigm for the web.</strong></a>
 <br/> What is WebAssembly?
@@ -27,12 +32,6 @@ Tim Berners developed the www. World wide web is basically a project that stores
 Let me show you the world's first website😶‍🌫️
 
 "Link to the world's fi... </p> <br/> <br/>
-<p align="left">
-<a href="https://vishal7771.hashnode.dev//deploying-web-app-using-nginx-web-server-and-reverse-proxy" title="Deploying Web App using Nginx web server and Reverse proxy🔀"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680546211349/32ec7757-5fa1-421e-9280-62abfd405c8d.webp" alt="Deploying Web App using Nginx web server and Reverse proxy🔀" width="250px" align="left" /></a>
-<a href="https://vishal7771.hashnode.dev//deploying-web-app-using-nginx-web-server-and-reverse-proxy" title="Deploying Web App using Nginx web server and Reverse proxy🔀"><strong>Deploying Web App using Nginx web server and Reverse proxy🔀</strong></a>
-<br/> Web servers and reverse proxies are powerful tools in the DevOps arsenal, providing a range of benefits for web application performance, security, and infrastructure management.
-What is Nginx?
-Nginx is a popular open-source web server software that a... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
