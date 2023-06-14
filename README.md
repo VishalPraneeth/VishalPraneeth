@@ -4,6 +4,22 @@
 - 👨‍🏫 BTech student at PES University,Bangalore 
 - 🌐 Connect with me at https://vishal-m.netlify.app/
 
+<h3 align="left">Connect with me:</h3>
+
+<a href="https://www.linkedin.com/in/vishal-m-67920524b/">
+  <img align="left" alt="Vishal's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://vishal-m.netlify.app/">
+  <img align="left" alt="Vishal's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleearth.svg" />
+</a>
+<a href="https://twitter.com/VishalPraneeth">
+  <img align="left" alt="Vishal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://vishal7771.hashnode.dev/" ><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hashnode.svg" alt="vishal7771"  width="22px" /></a>
+
+<br/>
+
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
