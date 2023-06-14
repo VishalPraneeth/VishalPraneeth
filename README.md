@@ -1,5 +1,5 @@
-- 👋 Hi there, I’m Vishal
-- 👀 I’m a Cloud-native DevOps Engineer
+![Intro](https://github.com/VishalPraneeth/VishalPraneeth/blob/main/Gif%20GitHub%20profile.gif)
+
 - 📫 Reach me at vishalpraneeth7771@gmail.com
 - 👨‍🏫 BTech student at PES University,Bangalore 
 - 🌐 Connect with me at https://vishal-m.netlify.app/
