@@ -48,29 +48,14 @@ Let me show you the world's first website😶‍🌫️
 "Link to the world's fi... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-### Languages:
+### Languages
 
-![Go](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png)[Go (Golang)](https://golang.org/)
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)[Python](https://www.python.org/)
-![Java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png)[Java](https://www.java.com/)
-![C/C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png)[C/C++](https://en.cppreference.com/)
-![Bash](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1200px-Gnu-bash-logo.svg.png)[Bash](https://www.gnu.org/software/bash/)
-![SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png)[SQL](https://en.wikipedia.org/wiki/SQL)
+[![Go](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png)](https://golang.org/)
+[![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)](https://www.python.org/)
+[![Java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png)](https://www.java.com/)
+[![C/C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png)](https://en.cppreference.com/)
+[![Bash](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1200px-Gnu-bash-logo.svg.png)](https://www.gnu.org/software/bash/)
+[![SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png)](https://en.wikipedia.org/wiki/SQL)
 
-### Tools:
-
-![Docker](https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png)[Docker](https://www.docker.com/)
-![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png)[Kubernetes](https://kubernetes.io/)
-![Terraform](https://www.terraform.io/assets/images/og-image-8b3e4f7d.png)[Terraform](https://www.terraform.io/)
-![Ansible](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1200px-Ansible_logo.svg.png)[Ansible](https://www.ansible.com/)
-![Prometheus](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png)[Prometheus](https://prometheus.io/)
-![Grafana](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Grafana_logo.svg/1280px-Grafana_logo.svg.png)[Grafana](https://grafana.com/)
-
-### Development Skills:
-
-![Jenkins](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png)[Jenkins](https://www.jenkins.io/)
-![Argo CD](https://argoproj.github.io/argo-cd/assets/images/argo-cd-logo.svg)[Argo CD](https://argoproj.github.io/argo-cd/)
-![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png)[Git](https://git-scm.com/)
-![VS Code](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png)[VS Code](https://code.visualstudio.com/)
 
 
