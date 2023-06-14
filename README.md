@@ -1,8 +1,6 @@
 ![Intro](https://github.com/VishalPraneeth/VishalPraneeth/blob/main/Gif%20GitHub%20profile.gif)
 
-- 📫 Reach me at vishalpraneeth7771@gmail.com
-- 👨‍🏫 BTech student at PES University,Bangalore 
-- 🌐 Connect with me at https://vishal-m.netlify.app/
+
 
 <h3 align="left">Connect with me:</h3>
 
