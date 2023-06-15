@@ -31,8 +31,12 @@ Last week on Friday and Saturday, I had the privilege of attending Kubernetes Co
 <br/> What is WebAssembly?
 It is a low-level binary web format compiled from other languages to offer maximized performance and augment JS.
 Advantages and use cases of WebAssembly
+
+
 Reliable and better performance
+
 Enhanced portability
+
 Greater flexibility... </p> <br/> <br/>
 <p align="left">
 <a href="https://vishal7771.hashnode.dev//unlocking-the-world-of-computer-networks-explore-understand-and-connect" title="Unlocking the World of Computer Networks: Explore, Understand, and Connect!🌐"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684943938137/43e8a174-7728-44c9-97f8-2f64313d761d.jpeg" alt="Unlocking the World of Computer Networks: Explore, Understand, and Connect!🌐" width="250px" align="left" /></a>
