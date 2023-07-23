@@ -21,6 +21,12 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://vishal7771.hashnode.dev//awsdevops-project-dataflowxpress-streamlined-data-pipelines-for-modern-analytics" title="AWS/DevOps Project "DataFlowXpress": Streamlined Data Pipelines for Modern Analytics"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689421288843/b5d7ff82-4c14-49ce-b7ab-6961c8bef56d.jpeg" alt="AWS/DevOps Project "DataFlowXpress": Streamlined Data Pipelines for Modern Analytics" width="250px" align="left" /></a>
+<a href="https://vishal7771.hashnode.dev//awsdevops-project-dataflowxpress-streamlined-data-pipelines-for-modern-analytics" title="AWS/DevOps Project "DataFlowXpress": Streamlined Data Pipelines for Modern Analytics"><strong>AWS/DevOps Project "DataFlowXpress": Streamlined Data Pipelines for Modern Analytics</strong></a>
+<br/> Services that will be used in this project:
+
+AWS Lambda: It is a serverless computing service offered by AWS. It allows us to run the code/application without having to manage or provision the server. We just have to upload the code (Lambda Function)... </p> <br/> <br/>
+<p align="left">
 <a href="https://vishal7771.hashnode.dev//my-incredible-journey-at-kubernetes-community-days-bangalore-a-gateway-to-the-devops-ecosystem" title="My Incredible Journey at Kubernetes Community Days Bangalore: A Gateway to the DevOps Ecosystem"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686054374567/b4796059-ec96-4b9b-8b8a-714ffc80ff1f.jpeg" alt="My Incredible Journey at Kubernetes Community Days Bangalore: A Gateway to the DevOps Ecosystem" width="250px" align="left" /></a>
 <a href="https://vishal7771.hashnode.dev//my-incredible-journey-at-kubernetes-community-days-bangalore-a-gateway-to-the-devops-ecosystem" title="My Incredible Journey at Kubernetes Community Days Bangalore: A Gateway to the DevOps Ecosystem"><strong>My Incredible Journey at Kubernetes Community Days Bangalore: A Gateway to the DevOps Ecosystem</strong></a>
 <br/> Introduction:
@@ -38,14 +44,6 @@ Reliable and better performance
 Enhanced portability
 
 Greater flexibility... </p> <br/> <br/>
-<p align="left">
-<a href="https://vishal7771.hashnode.dev//unlocking-the-world-of-computer-networks-explore-understand-and-connect" title="Unlocking the World of Computer Networks: Explore, Understand, and Connect!🌐"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684943938137/43e8a174-7728-44c9-97f8-2f64313d761d.jpeg" alt="Unlocking the World of Computer Networks: Explore, Understand, and Connect!🌐" width="250px" align="left" /></a>
-<a href="https://vishal7771.hashnode.dev//unlocking-the-world-of-computer-networks-explore-understand-and-connect" title="Unlocking the World of Computer Networks: Explore, Understand, and Connect!🌐"><strong>Unlocking the World of Computer Networks: Explore, Understand, and Connect!🌐</strong></a>
-<br/> Where did it all begin?
-Tim Berners developed the www. World wide web is basically a project that stores the documents that are accessible across the world through the Internet.
-Let me show you the world's first website😶‍🌫️
-
-"Link to the world's fi... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Skills Summary:</h3>
